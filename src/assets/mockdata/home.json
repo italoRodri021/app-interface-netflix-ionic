@@ -1,0 +1,70 @@
+{
+    "spotlight": {
+        "id": 2,
+        "name": "Firefly",
+        "rating": "#5 na Alemanha hoje",
+        "desc": "Um encontrou fama e fortuna. O outro amor e família. Melhores amigos de longa data que são tão diferentes quanto podem ser - e dedicados o máximo que pode ser."
+    },
+    "sections": [
+        {
+            "title": "Continue Assistindo",
+            "type": "continue",
+            "series": [
+                {
+                    "id": 1,
+                    "progress": 42,
+                    "title": "Bridergton",
+                    "season": "S1:E3"
+                },
+                {
+                    "id": 2,
+                    "progress": 80,
+                    "title": "Lupin",
+                    "season": "S1:E5"
+                },
+                {
+                    "id": 3,
+                    "progress": 12,
+                    "title": "Money Heist",
+                    "season": "S3:E4"
+                }
+            ]
+        },
+        {
+            "title": "Netflix Originals",
+            "type": "original",
+            "series": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "title": "Novas Tendências",
+            "type": "series",
+            "series": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                }
+            ]
+        }
+    ]
+}
